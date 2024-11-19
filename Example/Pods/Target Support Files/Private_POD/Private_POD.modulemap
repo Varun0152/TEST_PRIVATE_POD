@@ -1,0 +1,6 @@
+framework module Private_POD {
+  umbrella header "Private_POD-umbrella.h"
+
+  export *
+  module * { export * }
+}

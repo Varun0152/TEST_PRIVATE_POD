@@ -1,0 +1,22 @@
+{
+  "name": "Private_POD",
+  "version": "0.1.0",
+  "summary": "A short description of Private_POD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Varun0152/Private_POD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Varun0152": "varun.bagga@astrotalk.com"
+  },
+  "source": {
+    "git": "https://github.com/Varun0152/Private_POD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Private_POD/Classes/**/*"
+}
